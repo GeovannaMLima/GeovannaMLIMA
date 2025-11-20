@@ -120,9 +120,5 @@ Me chamo Geovanna Lima, sou estudante de Ciência da Computação na UFMA.
     src="https://github-readme-stats.vercel.app/api?    username=GeovannaMLIma&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovannaMLima/GeovannaMLima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovannaMLima/GeovannaMLima/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeovannaMLima/GeovannaMLima/output/github-contribution-grid-snake.svg">
-</picture>
+
 
