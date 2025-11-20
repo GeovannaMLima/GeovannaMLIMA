@@ -1,6 +1,5 @@
 #  Geovanna Lima
 
-**`Graduando em Ciência da Computação pela UFMA`**
 
 Me chamo Geovanna Lima, sou estudante de Ciência da Computação na UFMA.
 
